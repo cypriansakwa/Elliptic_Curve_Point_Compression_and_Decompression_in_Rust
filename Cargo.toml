@@ -1,0 +1,8 @@
+[package]
+name = "Elliptic_Curve_Point_Compression_and_Decompression_in_Rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+num-bigint = "0.4"
+num-traits = "0.2"
